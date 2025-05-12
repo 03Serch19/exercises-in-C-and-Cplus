@@ -1,1 +1,2 @@
-#exercises performed from august to october 2023
+# Exercises-in-C-and-Cplus
+Ejercicios desarrolados entre agosto y octubre 2023
